@@ -1,7 +1,7 @@
 {
   "name": "gatsby-remark-smarttypo",
   "description": "Replace special character strings with smart unicode characters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "arrkiin <arrkiin@gmail.com>",
   "bugs": {
     "url": "https://github.com/arrkiin/gatsby-remark-smarttypo/issues"
